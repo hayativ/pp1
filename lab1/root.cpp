@@ -4,7 +4,7 @@ using namespace std;
 int main (){
     int a;
     cin >> a;
-    double sqrtt = sqrt(a);
-    cout << sqrtt;
+    double square = sqrt(a);
+    cout << square;
     return 0;
 }
